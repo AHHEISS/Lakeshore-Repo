@@ -1,0 +1,54 @@
+LakeshoreApp-Instruction-Notes.txt
+
+
+These modules track two LS335 temperature sensors and one flowmeter
+or four or eight LS336 temperature sensors and one flowmeter.
+They may also track either two flowmeters
+or one flowmeter and one pressure sensor.
+
+They are started directly from the icon on the desktop
+
+1)  Type the correct COM-port number and press "ENTER"
+
+2)  Find/Make the directory for the system under test
+    Type that directory name (followed by "\") and the
+    file name for this measurement and press "ENTER"
+
+3)  Type any initial comments into the text box
+    and press "Save Notes"
+    A time-stamped text file is then created with the
+    same name "_Notes.txt" and can be opened and edited
+    during the measurement.
+    Changes can be saved by typing "CTRL-S"
+
+
+Modules are available for
+
+|Flow:                        |  Two flowmeters "A" and "B" |
+|Flow & Pressure:             |  One flowmeter on "A" and   |
+|                             |  One Pressure Sensor on "B" |
+
+|Lakeshore USB interface      |                                             |
+|------                       |                                             |
+|LakeshoreApp-U2:             | LS335 two sensors                           |
+|LakeshoreApp-U2-Flow:        | LS335 two sensors plus flow                 |
+|LakeshoreApp-U4:             | LS336 four sensors                          |
+|LakeshoreApp-U4-Flow:        | LS336 four sensors plus flow                |
+|LakeshoreApp-U4-Flow-Press:  | LS336 four sensors plus flow plus pressure  |
+|LakeshoreApp-U8-Flow:        | LS336 eight sensors plus flow               |
+|LakeshoreApp-U8-Flow-Press:  | LS336 eight sensors plus flow plus pressure |
+
+
+|Lakeshore Ethernet Interface |                                             |
+|------                       |                                             |
+|LakeshoreApp-E4:             | LS336 four sensors                          |
+|LakeshoreApp-E4-Flow:        | LS336 four sensors plus flow                |
+|LakeshoreApp-E4-Flow-Press:  | LS336 four sensors plus flow plus pressure  |
+|LakeshoreApp-E8-Flow:        | LS336 eight sensors plus flow               |
+|LakeshoreApp-E8-Flow-Press:  | LS336 eight sensors plus flow plus pressure |
+
+
+
+
+
+
