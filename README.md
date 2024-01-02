@@ -19,7 +19,7 @@ Individual Python scripts converted to .exe programs with accompanying .bat file
 13.  `LakeshoreApp-E8-Flow.py` LS336 Temperature - eight sensors plus flow - Ethernet
 14.  `LakeshoreApp-E8-Flow-Press.py` LS336 Temperature - eight sensors plus flow plus pressure - Ethernet
 
-**********
+***********
 
 The ColdEdge test and R&D lab has eight computers compatible with the Python Lakeshore Application    
 Unfortunately all but four have the User Account named differently and the Resilio link variously named and located  
