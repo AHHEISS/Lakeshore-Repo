@@ -25,13 +25,15 @@ Unfortunately all but four have the User Account named differently and the Resil
 This has required five separate versions of the code to be downloaded to each of the individual computers
 The computers are itenized in the table below and separate directories have been created for each of the five variants
 
-| Computer   | Users Directory  | AnyDesk ID   | Location  |
-|------------|------------------|--------------|-----------|
-| HP mini    | Test Lab2        | 880 443 251  |  test     |
-| HP mini    |                  |              |           |
-| HP mini    |                  |              |           |
-| HP mini    |                  |              |           |
-| LAPTOP-    |                  |              |           |
-| LAPTOP-    |                  |              |           |
-| LAPTOP-    |                  |              |           |
-| LAPTOP-    |                  |              |           |
+| Computer           | Users Directory  | AnyDesk ID    | Location  |
+|--------------------|------------------|---------------|-----------|
+| HP mini            | Test Lab2        | 880 443 251   |  test     |
+| HP mini            | User Access      | 808 500 690   |  R&D      |
+| HP mini            | User Acess       | 447 419 071   |  R&D      |
+| HP mini            | Lab 10           | 394 025 541   |           |
+| LAPTOP-Lab10       | User Account     | 1 015 553 773 |  test     |
+| LAPTOP-Lab11       | User Account     | 1 427 021 393 |  test     |
+| LAPTOP-Lab12       | User Account     | 1 576 023 988 |  test     |
+| LAPTOP-Office01    | User Account     | 198 149 727   |  test     |
+
+
