@@ -13,7 +13,7 @@ Flow and Pressure mapped to comPort input A and B
 This module reads Flow on side A from an Omega FMA1700A 
 and Pressure directly from an Omega PX309 on side B
 
-This module DOES NOT READ PRESSURE FROM AUTOMANIFOLD
+This module DOES NOT READ PRESSURE FROM AUTOMANIFOLD (AutoCool or CAMTouch)
 
 """
 import serial
