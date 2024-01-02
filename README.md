@@ -30,7 +30,7 @@ The computers are itenized in the table below and separate directories have been
 | HP mini            | Test Lab2        | 880 443 251   |  test     |
 | HP mini            | User Access      | 808 500 690   |  R&D      |
 | HP mini            | User Acess       | 447 419 071   |  R&D      |
-| HP mini            | Lab 10           | 394 025 541   |           |
+| HP mini            | Lab 10           | 394 025 541   |  test     |
 | LAPTOP-Lab10       | User Account     | 1 015 553 773 |  test     |
 | LAPTOP-Lab11       | User Account     | 1 427 021 393 |  test     |
 | LAPTOP-Lab12       | User Account     | 1 576 023 988 |  test     |
