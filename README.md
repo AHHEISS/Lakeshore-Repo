@@ -1,5 +1,6 @@
 # Lakeshore-Repo
-Lakeshore Controller temperature, flow and pressure monitoring code
+
+## Lakeshore Controller temperature, flow and pressure monitoring code
 
 Individual Python scripts converted to .exe programs with accompanying .bat files and desktop shortcut icons for the following:
 
