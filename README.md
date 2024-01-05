@@ -24,7 +24,7 @@ Individual Python scripts converted to .exe programs with accompanying .bat file
 The ColdEdge test and R&D lab has eight computers compatible with the Python Lakeshore Application    
 Unfortunately all but four have the User Account named differently and the Resilio link variously named and located  
 This has required five separate versions of the code to be downloaded to each of the individual computers  
-The computers are itenized in the table below and separate directories have been created for each of the five variants
+The computers are itemized in the table below and separate directories have been created for each of the five variants
 
 | Computer           | Users Directory  | AnyDesk ID    | Location  | Resilio |
 |--------------------|------------------|---------------|-----------|---------|
